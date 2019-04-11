@@ -1,3 +1,4 @@
+//https://github.com/Archer-4/3350MidTerm
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
